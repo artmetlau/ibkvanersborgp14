@@ -1,0 +1,21 @@
+body {
+    background-color:red;
+    color:white;
+    width:600px;
+    margin:20px auto;
+}
+
+div {
+    background-color:black;
+    padding:10px;
+    margin:10px;
+    width:200px
+}
+
+img {
+    height:100px;
+}
+
+a {
+    color:white;
+}
