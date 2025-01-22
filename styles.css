@@ -1,15 +1,13 @@
 body {
-    background-color RED
+    background-color: RED;
     
-    
-    text-rendering: ;
-    color:red;
+    color:white;
     /* width:600px;
     margin:20px auto; */
 }
 
 body > div {
-    background-color:black;
+    background-color:rgb(107, 141, 235);
     padding:10px;
     margin:10px;
     /* width:200px */
