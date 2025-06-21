@@ -1,13 +1,13 @@
 body {
-    background-color: RED;
+    background-color: #000100;
     
-    color:white;
+    color:rgb(188, 171, 180);
     /* width:600px;
     margin:20px auto; */
 }
 
 body > div {
-    background-color:rgb(107, 141, 235);
+    background-color:rgba(159, 28, 28, 0.707);
     padding:10px;
     margin:10px;
     /* width:200px */
@@ -18,5 +18,5 @@ img {
 }
 
 a {
-    color:white;
-}
+    colorrgb(0, 0, 0);
+}2
